@@ -1,0 +1,1 @@
+The LaMini-Flan-T5-248M model is required to be downloaded and placed in the project path for running the app.
